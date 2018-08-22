@@ -12,7 +12,7 @@ Não existe uma ordem para soldar mas eu começo dos componentes mais curtos par
 
 Quando for soldar o suporte da bateria, SOLDE ANTES os leds do outro lado
 
-Em breve tutorial em video nas minhas redes sociais 
+Em breve estarei disponibilizando um tutorial em video nas minhas redes sociais.
 
 www.facebook.com.br/manoelameroti
 instagram.com.br/manoelameroti
