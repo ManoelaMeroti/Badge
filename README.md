@@ -1,4 +1,4 @@
-# badge
+# Badge
 Badge Project
 
 Projeto Feito por Fabio Souza (https://www.linkedin.com/in/engfabiosouza)
